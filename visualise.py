@@ -1,12 +1,8 @@
 """Visualisation functions.
-
-Don't edit this file!
 """
 
 def show_vegetation_type(vegetation_type: list):
     """Show an image of the vegetation type.
-
-    Don't edit this function!
     """
     import numpy as np
     import matplotlib.pyplot as plt
@@ -80,8 +76,6 @@ def force_float(x):
 
 def show_vegetation_density(vegetation_density: list):
     """Show an image of the vegetation density.
-
-    Don't edit this function!
     """
     import numpy as np
     import matplotlib.pyplot as plt
@@ -98,8 +92,6 @@ def show_vegetation_density(vegetation_density: list):
 
 def show_wind_speed(wind_speed: list):
     """Show an image of the wind speed.
-
-    Don't edit this function!
     """
     import numpy as np
     import matplotlib.pyplot as plt
@@ -121,8 +113,6 @@ def show_wind_speed(wind_speed: list):
 
 def show_bushfire(bushfire: list):
     """Show an image of the bushfire.
-    
-    Don't edit this function!
     """
     import numpy as np
     import matplotlib.pyplot as plt
@@ -138,7 +128,6 @@ def show_fire_risk(
         wind_speed: list):
     """Show an image of the fire risk.
 
-    Don't edit this function!
     """
     import numpy as np
     import matplotlib.pyplot as plt
