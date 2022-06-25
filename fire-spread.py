@@ -1,6 +1,5 @@
 """
 Author:  Anuj Gautam
-Date: 21/10/18
 """
 
 from visualise import show_vegetation_type
