@@ -1,6 +1,5 @@
 """
 Author: Anuj Gautam
-Date: 21/10/18
 """
 
 import assignment as asst
